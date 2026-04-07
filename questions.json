@@ -1,0 +1,702 @@
+[
+    {
+        "id": 1,
+        "question": "What is the keyword used to define a function in Python?",
+        "options": ["func", "def", "function", "define"],
+        "answer": "def",
+        "language": "Python"
+    },
+    {
+        "id": 2,
+        "question": "Which symbol is used to end a statement in JavaScript?",
+        "options": [";", ":", ".", ","],
+        "answer": ";",
+        "language": "JavaScript"
+    },
+    {
+        "id": 3,
+        "question": "Which of the following is a valid variable declaration in Java?",
+        "options": ["int 1x=10;", "int x=10;", "integer x=10;", "num x=10;"],
+        "answer": "int x=10;",
+        "language": "Java"
+    },
+    {
+        "id": 4,
+        "question": "Which of these is not a primitive data type in C?",
+        "options": ["int", "float", "char", "string"],
+        "answer": "string",
+        "language": "C"
+    },
+    {
+        "id": 5,
+        "question": "How do you print 'Hello World' in Ruby?",
+        "options": ["echo 'Hello World'", "print('Hello World')", "puts 'Hello World'", "Console.WriteLine('Hello World')"],
+        "answer": "puts 'Hello World'",
+        "language": "Ruby"
+    },
+    {
+        "id": 6,
+        "question": "Which keyword is used to create a constant in JavaScript (ES6)?",
+        "options": ["var", "let", "const", "static"],
+        "answer": "const",
+        "language": "JavaScript"
+    },
+    {
+        "id": 7,
+        "question": "What is the file extension for a C++ source file?",
+        "options": [".c", ".cpp", ".cs", ".cp"],
+        "answer": ".cpp",
+        "language": "C++"
+    },
+    {
+        "id": 8,
+        "question": "Which of the following is used to import a module in Python?",
+        "options": ["require", "import", "include", "using"],
+        "answer": "import",
+        "language": "Python"
+    },
+    {
+        "id": 9,
+        "question": "Which language uses 'SELECT' statements to query data?",
+        "options": ["HTML", "SQL", "CSS", "XML"],
+        "answer": "SQL",
+        "language": "SQL"
+    },
+    {
+        "id": 10,
+        "question": "Which of the following is a valid comment in C#?",
+        "options": ["// comment", "# comment", "<!-- comment -->", "' comment"],
+        "answer": "// comment",
+        "language": "C#"
+    },
+    {
+        "id": 11,
+        "question": "Which keyword is used to inherit a class in Java?",
+        "options": ["inherits", "extends", "implements", "derives"],
+        "answer": "extends",
+        "language": "Java"
+    },
+    {
+        "id": 12,
+        "question": "What is the output of 'console.log(typeof null)' in JavaScript?",
+        "options": ["null", "object", "undefined", "string"],
+        "answer": "object",
+        "language": "JavaScript"
+    },
+    {
+        "id": 13,
+        "question": "Which of the following is a valid way to declare an array in PHP?",
+        "options": ["array()", "[]", "Array()", "all of the above"],
+        "answer": "all of the above",
+        "language": "PHP"
+    },
+    {
+        "id": 14,
+        "question": "Which symbol is used for single-line comments in Python?",
+        "options": ["//", "#", "--", "/*"],
+        "answer": "#",
+        "language": "Python"
+    },
+    {
+        "id": 15,
+        "question": "Which of the following is not a valid HTML tag?",
+        "options": ["<div>", "<span>", "<section>", "<mainly>"],
+        "answer": "<mainly>",
+        "language": "HTML"
+    },
+    {
+        "id": 16,
+        "question": "Which method is used to add an element at the end of a list in Python?",
+        "options": ["append()", "add()", "push()", "insert()"],
+        "answer": "append()",
+        "language": "Python"
+    },
+    {
+        "id": 17,
+        "question": "Which of the following is a valid way to declare a variable in JavaScript?",
+        "options": ["var x = 10;", "let x = 10;", "const x = 10;", "all of the above"],
+        "answer": "all of the above",
+        "language": "JavaScript"
+    },
+    {
+        "id": 18,
+        "question": "Which function is used to read input from the user in C?",
+        "options": ["input()", "scanf()", "read()", "gets()"],
+        "answer": "scanf()",
+        "language": "C"
+    },
+    {
+        "id": 19,
+        "question": "Which of the following is a valid way to start a for loop in Java?",
+        "options": ["for(int i=0; i<10; i++)", "for i in range(10):", "foreach(i=0; i<10; i++)", "loop(i=0; i<10; i++)"],
+        "answer": "for(int i=0; i<10; i++)",
+        "language": "Java"
+    },
+    {
+        "id": 20,
+        "question": "Which of the following is not a valid CSS property?",
+        "options": ["color", "font-size", "background-color", "text-decoration-line-through"],
+        "answer": "text-decoration-line-through",
+        "language": "CSS"
+    },
+    {
+        "id": 21,
+        "question": "Which of the following is used to define a class in Python?",
+        "options": ["class", "def", "struct", "object"],
+        "answer": "class",
+        "language": "Python"
+    },
+    {
+        "id": 22,
+        "question": "Which of the following is not a valid data type in JavaScript?",
+        "options": ["number", "string", "boolean", "character"],
+        "answer": "character",
+        "language": "JavaScript"
+    },
+    {
+        "id": 23,
+        "question": "Which of the following is used to declare a constant in C?",
+        "options": ["const", "constant", "final", "static"],
+        "answer": "const",
+        "language": "C"
+    },
+    {
+        "id": 24,
+        "question": "Which of the following is used to create a dictionary in Python?",
+        "options": ["{}", "[]", "()", "<>"],
+        "answer": "{}",
+        "language": "Python"
+    },
+    {
+        "id": 25,
+        "question": "Which of the following is not a valid SQL command?",
+        "options": ["SELECT", "INSERT", "UPDATE", "FETCH"],
+        "answer": "FETCH",
+        "language": "SQL"
+    },
+    {
+        "id": 26,
+        "question": "Which of the following is used to define a function in JavaScript?",
+        "options": ["function", "def", "func", "method"],
+        "answer": "function",
+        "language": "JavaScript"
+    },
+    {
+        "id": 27,
+        "question": "Which of the following is not a valid operator in C++?",
+        "options": ["+", "-", "*", "**"],
+        "answer": "**",
+        "language": "C++"
+    },
+    {
+        "id": 28,
+        "question": "Which of the following is used to declare a variable in PHP?",
+        "options": ["$", "@", "#", "&"],
+        "answer": "$",
+        "language": "PHP"
+    },
+    {
+        "id": 29,
+        "question": "Which of the following is not a valid loop in Java?",
+        "options": ["for", "while", "do-while", "repeat-until"],
+        "answer": "repeat-until",
+        "language": "Java"
+    },
+    {
+        "id": 30,
+        "question": "Which of the following is used to define a function in Ruby?",
+        "options": ["def", "function", "func", "method"],
+        "answer": "def",
+        "language": "Ruby"
+    },
+    {
+        "id": 31,
+        "question": "Which of the following is not a valid way to declare a variable in C#?",
+        "options": ["int x = 10;", "var x = 10;", "let x = 10;", "double x = 10.0;"],
+        "answer": "let x = 10;",
+        "language": "C#"
+    },
+    {
+        "id": 32,
+        "question": "Which of the following is used to create an object in JavaScript?",
+        "options": ["{}", "[]", "()", "<>"],
+        "answer": "{}",
+        "language": "JavaScript"
+    },
+    {
+        "id": 33,
+        "question": "Which of the following is not a valid data type in Python?",
+        "options": ["int", "float", "char", "list"],
+        "answer": "char",
+        "language": "Python"
+    },
+    {
+        "id": 34,
+        "question": "Which of the following is used to define a class in Java?",
+        "options": ["class", "def", "struct", "object"],
+        "answer": "class",
+        "language": "Java"
+    },
+    {
+        "id": 35,
+        "question": "Which of the following is not a valid way to declare a variable in JavaScript?",
+        "options": ["var x = 10;", "let x = 10;", "const x = 10;", "int x = 10;"],
+        "answer": "int x = 10;",
+        "language": "JavaScript"
+    },
+    {
+        "id": 36,
+        "question": "Which of the following is used to define a function in C?",
+        "options": ["def", "function", "void", "func"],
+        "answer": "void",
+        "language": "C"
+    },
+    {
+        "id": 37,
+        "question": "Which of the following is not a valid way to declare a variable in Python?",
+        "options": ["x = 10", "int x = 10", "x = 'hello'", "x = [1,2,3]"],
+        "answer": "int x = 10",
+        "language": "Python"
+    },
+    {
+        "id": 38,
+        "question": "Which of the following is used to define a function in PHP?",
+        "options": ["def", "function", "func", "method"],
+        "answer": "function",
+        "language": "PHP"
+    },
+    {
+        "id": 39,
+        "question": "Which of the following is not a valid way to declare a variable in Ruby?",
+        "options": ["x = 10", "var x = 10", "x = 'hello'", "x = [1,2,3]"],
+        "answer": "var x = 10",
+        "language": "Ruby"
+    },
+    {
+        "id": 40,
+        "question": "Which of the following is used to define a function in C++?",
+        "options": ["def", "function", "void", "func"],
+        "answer": "void",
+        "language": "C++"
+    },
+    {
+        "id": 41,
+        "question": "Which of the following is not a valid way to declare a variable in PHP?",
+        "options": ["$x = 10;", "var x = 10;", "$x = 'hello';", "$x = [1,2,3];"],
+        "answer": "var x = 10;",
+        "language": "PHP"
+    },
+    {
+        "id": 42,
+        "question": "Which of the following is used to define a function in Java?",
+        "options": ["def", "function", "void", "func"],
+        "answer": "void",
+        "language": "Java"
+    },
+    {
+        "id": 43,
+        "question": "Which of the following is not a valid way to declare a variable in C++?",
+        "options": ["int x = 10;", "var x = 10;", "double x = 10.0;", "char x = 'a';"],
+        "answer": "var x = 10;",
+        "language": "C++"
+    },
+    {
+        "id": 44,
+        "question": "Which of the following is used to define a function in C#?",
+        "options": ["def", "function", "void", "func"],
+        "answer": "void",
+        "language": "C#"
+    },
+    {
+        "id": 45,
+        "question": "Which of the following is not a valid way to declare a variable in Java?",
+        "options": ["int x = 10;", "var x = 10;", "double x = 10.0;", "char x = 'a';"],
+        "answer": "var x = 10;",
+        "language": "Java"
+    },
+    {
+        "id": 46,
+        "question": "Which of the following is used to define a function in Swift?",
+        "options": ["def", "function", "func", "method"],
+        "answer": "func",
+        "language": "Swift"
+    },
+    {
+        "id": 47,
+        "question": "Which of the following is not a valid way to declare a variable in Swift?",
+        "options": ["var x = 10", "let x = 10", "int x = 10", "x = 10"],
+        "answer": "int x = 10",
+        "language": "Swift"
+    },
+    {
+        "id": 48,
+        "question": "Which of the following is used to define a function in Kotlin?",
+        "options": ["def", "function", "fun", "method"],
+        "answer": "fun",
+        "language": "Kotlin"
+    },
+    {
+        "id": 49,
+        "question": "Which of the following is not a valid way to declare a variable in Kotlin?",
+        "options": ["var x = 10", "val x = 10", "int x = 10", "x = 10"],
+        "answer": "int x = 10",
+        "language": "Kotlin"
+    },
+    {
+        "id": 50,
+        "question": "Which of the following is used to define a function in Go?",
+        "options": ["def", "function", "func", "method"],
+        "answer": "func",
+        "language": "Go"
+    },
+    {
+        "id": 51,
+        "question": "Which of the following is not a valid way to declare a variable in Go?",
+        "options": ["var x int = 10", "x := 10", "int x = 10", "var x = 10"],
+        "answer": "int x = 10",
+        "language": "Go"
+    },
+    {
+        "id": 52,
+        "question": "Which of the following is used to define a function in Rust?",
+        "options": ["def", "function", "fn", "method"],
+        "answer": "fn",
+        "language": "Rust"
+    },
+    {
+        "id": 53,
+        "question": "Which of the following is not a valid way to declare a variable in Rust?",
+        "options": ["let x = 10;", "let mut x = 10;", "var x = 10;", "x = 10;"],
+        "answer": "var x = 10;",
+        "language": "Rust"
+    },
+    {
+        "id": 54,
+        "question": "Which of the following is used to define a function in Scala?",
+        "options": ["def", "function", "func", "method"],
+        "answer": "def",
+        "language": "Scala"
+    },
+    {
+        "id": 55,
+        "question": "Which of the following is not a valid way to declare a variable in Scala?",
+        "options": ["var x = 10", "val x = 10", "int x = 10", "x = 10"],
+        "answer": "int x = 10",
+        "language": "Scala"
+    },
+    {
+        "id": 56,
+        "question": "Which of the following is used to define a function in TypeScript?",
+        "options": ["def", "function", "func", "method"],
+        "answer": "function",
+        "language": "TypeScript"
+    },
+    {
+        "id": 57,
+        "question": "Which of the following is not a valid way to declare a variable in TypeScript?",
+        "options": ["let x: number = 10;", "var x = 10;", "const x = 10;", "int x = 10;"],
+        "answer": "int x = 10;",
+        "language": "TypeScript"
+    },
+    {
+        "id": 58,
+        "question": "Which of the following is used to define a function in Dart?",
+        "options": ["def", "function", "void", "func"],
+        "answer": "void",
+        "language": "Dart"
+    },
+    {
+        "id": 59,
+        "question": "Which of the following is not a valid way to declare a variable in Dart?",
+        "options": ["var x = 10;", "int x = 10;", "let x = 10;", "x = 10;"],
+        "answer": "let x = 10;",
+        "language": "Dart"
+    },
+    {
+        "id": 60,
+        "question": "Which of the following is used to define a function in Perl?",
+        "options": ["def", "function", "sub", "func"],
+        "answer": "sub",
+        "language": "Perl"
+    },
+    {
+        "id": 61,
+        "question": "Which of the following is not a valid way to declare a variable in Perl?",
+        "options": ["$x = 10;", "my $x = 10;", "int x = 10;", "our $x = 10;"],
+        "answer": "int x = 10;",
+        "language": "Perl"
+    },
+    {
+        "id": 62,
+        "question": "Which of the following is used to define a function in Haskell?",
+        "options": ["def", "function", "func", "just the function name"],
+        "answer": "just the function name",
+        "language": "Haskell"
+    },
+    {
+        "id": 63,
+        "question": "Which of the following is not a valid way to declare a variable in Haskell?",
+        "options": ["let x = 10", "x = 10", "var x = 10", "where x = 10"],
+        "answer": "var x = 10",
+        "language": "Haskell"
+    },
+    {
+        "id": 64,
+        "question": "Which of the following is used to define a function in Julia?",
+        "options": ["def", "function", "func", "method"],
+        "answer": "function",
+        "language": "Julia"
+    },
+    {
+        "id": 65,
+        "question": "Which of the following is not a valid way to declare a variable in Julia?",
+        "options": ["x = 10", "let x = 10", "int x = 10", "x::Int = 10"],
+        "answer": "int x = 10",
+        "language": "Julia"
+    },
+    {
+        "id": 66,
+        "question": "Which of the following is used to define a function in R?",
+        "options": ["def", "function", "func", "method"],
+        "answer": "function",
+        "language": "R"
+    },
+    {
+        "id": 67,
+        "question": "Which of the following is not a valid way to declare a variable in R?",
+        "options": ["x = 10", "x <- 10", "int x = 10", "assign('x', 10)"],
+        "answer": "int x = 10",
+        "language": "R"
+    },
+    {
+        "id": 68,
+        "question": "Which of the following is used to define a function in MATLAB?",
+        "options": ["def", "function", "func", "method"],
+        "answer": "function",
+        "language": "MATLAB"
+    },
+    {
+        "id": 69,
+        "question": "Which of the following is not a valid way to declare a variable in MATLAB?",
+        "options": ["x = 10;", "int x = 10;", "x = [1 2 3];", "x = 'hello';"],
+        "answer": "int x = 10;",
+        "language": "MATLAB"
+    },
+    {
+        "id": 70,
+        "question": "Which of the following is used to define a function in Bash?",
+        "options": ["def", "function", "func", "function_name()"],
+        "answer": "function_name()",
+        "language": "Bash"
+    },
+    {
+        "id": 71,
+        "question": "Which of the following is not a valid way to declare a variable in Bash?",
+        "options": ["x=10", "let x=10", "int x = 10", "declare x=10"],
+        "answer": "int x = 10",
+        "language": "Bash"
+    },
+    {
+        "id": 72,
+        "question": "Which of the following is used to define a function in Objective-C?",
+        "options": ["def", "function", "- (void)", "func"],
+        "answer": "- (void)",
+        "language": "Objective-C"
+    },
+    {
+        "id": 73,
+        "question": "Which of the following is not a valid way to declare a variable in Objective-C?",
+        "options": ["int x = 10;", "NSInteger x = 10;", "var x = 10;", "float x = 10.0;"],
+        "answer": "var x = 10;",
+        "language": "Objective-C"
+    },
+    {
+        "id": 74,
+        "question": "Which of the following is used to define a function in Visual Basic?",
+        "options": ["def", "function", "Sub", "func"],
+        "answer": "Sub",
+        "language": "Visual Basic"
+    },
+    {
+        "id": 75,
+        "question": "Which of the following is not a valid way to declare a variable in Visual Basic?",
+        "options": ["Dim x As Integer", "x = 10", "int x = 10", "Dim x As String"],
+        "answer": "int x = 10",
+        "language": "Visual Basic"
+    },
+    {
+        "id": 76,
+        "question": "Which of the following is used to define a function in Lua?",
+        "options": ["def", "function", "func", "method"],
+        "answer": "function",
+        "language": "Lua"
+    },
+    {
+        "id": 77,
+        "question": "Which of the following is not a valid way to declare a variable in Lua?",
+        "options": ["x = 10", "local x = 10", "int x = 10", "x = 'hello'"],
+        "answer": "int x = 10",
+        "language": "Lua"
+    },
+    {
+        "id": 78,
+        "question": "Which of the following is used to define a function in F#?",
+        "options": ["def", "function", "let", "func"],
+        "answer": "let",
+        "language": "F#"
+    },
+    {
+        "id": 79,
+        "question": "Which of the following is not a valid way to declare a variable in F#?",
+        "options": ["let x = 10", "var x = 10", "let mutable x = 10", "x = 10"],
+        "answer": "var x = 10",
+        "language": "F#"
+    },
+    {
+        "id": 80,
+        "question": "Which of the following is used to define a function in Elixir?",
+        "options": ["def", "function", "func", "method"],
+        "answer": "def",
+        "language": "Elixir"
+    },
+    {
+        "id": 81,
+        "question": "Which of the following is not a valid way to declare a variable in Elixir?",
+        "options": ["x = 10", "var x = 10", "x = 'hello'", "x = [1,2,3]"],
+        "answer": "var x = 10",
+        "language": "Elixir"
+    },
+    {
+        "id": 82,
+        "question": "Which of the following is used to define a function in Erlang?",
+        "options": ["def", "function", "func", "just the function name"],
+        "answer": "just the function name",
+        "language": "Erlang"
+    },
+    {
+        "id": 83,
+        "question": "Which of the following is not a valid way to declare a variable in Erlang?",
+        "options": ["X = 10.", "Var = 10.", "int X = 10.", "X = 'hello'."],
+        "answer": "int X = 10.",
+        "language": "Erlang"
+    },
+    {
+        "id": 84,
+        "question": "Which of the following is used to define a function in COBOL?",
+        "options": ["def", "function", "PERFORM", "func"],
+        "answer": "PERFORM",
+        "language": "COBOL"
+    },
+    {
+        "id": 85,
+        "question": "Which of the following is not a valid way to declare a variable in COBOL?",
+        "options": ["01 X PIC 9(2).", "int X = 10;", "77 X PIC 9(2).", "05 X PIC 9(2)."],
+        "answer": "int X = 10;",
+        "language": "COBOL"
+    },
+    {
+        "id": 86,
+        "question": "Which of the following is used to define a function in Fortran?",
+        "options": ["def", "function", "FUNC", "SUBROUTINE"],
+        "answer": "function",
+        "language": "Fortran"
+    },
+    {
+        "id": 87,
+        "question": "Which of the following is not a valid way to declare a variable in Fortran?",
+        "options": ["INTEGER :: X", "REAL :: X", "int X = 10;", "X = 10"],
+        "answer": "int X = 10;",
+        "language": "Fortran"
+    },
+    {
+        "id": 88,
+        "question": "Which of the following is used to define a function in Prolog?",
+        "options": ["def", "function", "predicate", "func"],
+        "answer": "predicate",
+        "language": "Prolog"
+    },
+    {
+        "id": 89,
+        "question": "Which of the following is not a valid way to declare a variable in Prolog?",
+        "options": ["X = 10.", "Var = 10.", "int X = 10.", "X = 'hello'."],
+        "answer": "int X = 10.",
+        "language": "Prolog"
+    },
+    {
+        "id": 90,
+        "question": "Which of the following is used to define a function in Pascal?",
+        "options": ["def", "function", "procedure", "func"],
+        "answer": "function",
+        "language": "Pascal"
+    },
+    {
+        "id": 91,
+        "question": "Which of the following is not a valid way to declare a variable in Pascal?",
+        "options": ["var x: integer;", "x := 10;", "int x = 10;", "var x: string;"],
+        "answer": "int x = 10;",
+        "language": "Pascal"
+    },
+    {
+        "id": 92,
+        "question": "Which of the following is used to define a function in Scheme?",
+        "options": ["def", "function", "define", "func"],
+        "answer": "define",
+        "language": "Scheme"
+    },
+    {
+        "id": 93,
+        "question": "Which of the following is not a valid way to declare a variable in Scheme?",
+        "options": ["(define x 10)", "let x = 10", "set! x 10", "(define y 'hello')"],
+        "answer": "let x = 10",
+        "language": "Scheme"
+    },
+    {
+        "id": 94,
+        "question": "Which of the following is used to define a function in Lisp?",
+        "options": ["def", "function", "defun", "func"],
+        "answer": "defun",
+        "language": "Lisp"
+    },
+    {
+        "id": 95,
+        "question": "Which of the following is not a valid way to declare a variable in Lisp?",
+        "options": ["(setq x 10)", "(defvar x 10)", "int x = 10", "(setf x 10)"],
+        "answer": "int x = 10",
+        "language": "Lisp"
+    },
+    {
+        "id": 96,
+        "question": "Which of the following is used to define a function in Groovy?",
+        "options": ["def", "function", "func", "method"],
+        "answer": "def",
+        "language": "Groovy"
+    },
+    {
+        "id": 97,
+        "question": "Which of the following is not a valid way to declare a variable in Groovy?",
+        "options": ["def x = 10", "int x = 10", "var x = 10", "x = 10"],
+        "answer": "var x = 10",
+        "language": "Groovy"
+    },
+    {
+        "id": 98,
+        "question": "Which of the following is used to define a function in Smalltalk?",
+        "options": ["def", "function", "method", "func"],
+        "answer": "method",
+        "language": "Smalltalk"
+    },
+    {
+        "id": 99,
+        "question": "Which of the following is not a valid way to declare a variable in Smalltalk?",
+        "options": ["| x |", "x := 10", "int x = 10", "x := 'hello'"],
+        "answer": "int x = 10",
+        "language": "Smalltalk"
+    },
+    {
+        "id": 100,
+        "question": "Which of the following is used to define a function in Assembly?",
+        "options": ["def", "function", "label", "proc"],
+        "answer": "label",
+        "language": "Assembly"
+    }
+]

@@ -1,0 +1,66 @@
+html
+    head
+        title Online Quiz
+        style.
+            body {
+                margin: 0;
+                font-family: Arial, sans-serif;
+                background: #f5f6fa;
+            }
+            nav {
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 95%;
+                background: #2d3436;
+                color: #fff;
+                padding: 1rem 2rem;
+                box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+                z-index: 1000;
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+            }
+            .nav-logo {
+                font-weight: bold;
+                font-size: 1.3rem;
+                letter-spacing: 1px;
+            }
+            .nav-links {
+                display: flex;
+                gap: 1.5rem;
+            }
+            .nav-links a {
+                color: #fff;
+                text-decoration: none;
+                font-size: 1rem;
+                transition: color 0.2s;
+            }
+            .nav-links a:hover {
+                color: #00b894;
+            }
+            .content {
+                margin-top: 70px;
+                padding: 2rem;
+            }
+    body
+        nav
+            span.nav-logo Online Quiz
+            div.nav-links
+                a Hii #{user}
+                a(href="/dashboard") Dashboard
+                a(href="/quizzes") Quizzes
+                a(href="/results") Results
+                a(href="/logout") Logout
+        .content 
+            h1 Online Quiz on #{name}
+            form(action="/evaluation" method="POST") 
+            ol 
+                each question in questions
+                    li #{question.question}
+                    each option in question.options
+                        input(required type="radio" , name=`${question.id}`, value=`${option}`)
+                        label=option
+                        <br>
+                <br>
+            button SUBMIT 
